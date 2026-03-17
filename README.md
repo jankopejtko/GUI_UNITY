@@ -38,12 +38,6 @@ Vytvořeno pro účely výuky na Katedře informatiky - Přírodovědecké fakul
 Autoři: [Jan Kopejtko](https://github.com/jankopejtko) & [Vojtěch Riedl](https://github.com/VojtechRiedl) 
 
 
-
-# ------------------------------------------------------------------------------
-
-
-
-
 # GUI_UNITY
 Unity Workshop: Game Development Basics. Educational materials, scripts, and assets for the university seminar.
 
