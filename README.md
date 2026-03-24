@@ -82,3 +82,20 @@ For a smooth workshop experience, please have the following installed:
 Created for teaching purposes at the Department of Informatics - Faculty of Science - UJEP. 
 
 Authors: [Jan Kopejtko](https://github.com/jankopejtko) & [Vojtěch Riedl](https://github.com/VojtechRiedl)
+
+
+
+
+
+
+## Credits / Third-Party Assets
+
+This project uses the following asset from the Unity Asset Store:
+
+* **[Free Lava Shader](https://assetstore.unity.com/packages/vfx/shaders/free-lava-shader-292492)** by *[AYproduct]*
+  * **License:** Standard Unity Asset Store EULA (Free)
+  * **Usage:** Used for the lava hazard zone materials in the game.
+
+used sounds: https://freesound.org/people/Pavee2/sounds/622080/
+https://freesound.org/people/Cloud-10/sounds/647977/
+
