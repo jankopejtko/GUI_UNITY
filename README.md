@@ -1,3 +1,6 @@
+![QR code](setup_tutorials/img/qrcode_github.com.png)
+
+
 (english version below)
 # GUI_UNITY
 Unity Workshop: Základy vývoje her. Výukové materiály, skripty a assety pro univerzitní seminář.
