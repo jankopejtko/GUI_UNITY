@@ -1,6 +1,8 @@
 ![QR code](setup_tutorials/img/qrcode_github.com.png)
 
-[Průvodce/Guide](/guide/guide.md)
+[Průvodce](/guide/guide.md)
+---
+[Guide](/guide/guide-en.md)
 ---
 ---
 
