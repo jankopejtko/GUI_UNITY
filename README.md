@@ -20,6 +20,7 @@ Jednoduchou 3D hru, kde hráč ovládá postavu.
 Pro hladký průběh workshopu mějte prosím nainstalováno:
 * [**Unity Hub**](https://docs.unity3d.com/hub/manual/install-hub-win-mac.html) & **Unity 6000.2.3f1** (nebo novější)
 * [**Visual Studio 2022/2026** (s nainstalovaným modulem "Game development with Unity")](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Insiders&version=VS18&source=VSLandingPage&cid=2600&passive=false)
+* [**GitHub desktop**](https://desktop.github.com/download/)
 * Stažený tento repozitář -> tutorial [zde](/setup_tutorials/GITHUB.md)
 
 ## Struktura repozitáře
