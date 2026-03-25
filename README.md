@@ -59,6 +59,7 @@ A simple 3D game where the player controls a character.
 For a smooth workshop experience, please have the following installed:
 * [**Unity Hub**](https://docs.unity3d.com/hub/manual/install-hub-win-mac.html) & **Unity 6000.2.3f1** (or newer)
 * [**Visual Studio 2022/2026** (with the "Game development with Unity" workload installed)](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Insiders&version=VS18&source=VSLandingPage&cid=2600&passive=false)
+* [**GitHub desktop**](https://desktop.github.com/download/)
 * Downloaded this repository -> tutorial [here](/setup_tutorials/GITHUB_ENG.md)
 
 ## Repository Structure
